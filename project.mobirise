@@ -119,12 +119,16 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/Croqui-297383470666998/",
+              "size": 0,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CROQUI<br></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table2-g\">Ganhe Dinheiro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-e\">Contato</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">\u001bDownload</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HEL\u001b\u001bP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-j\">Ganhe Dinheiro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-e\">Contato</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">\u001bDownload</a></li>"
         },
         {
           "_name": "header1",
@@ -215,7 +219,7 @@
           "title1": "Exponha sua arte&nbsp;",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Exponha seu trabalho<br>em nossa aplicação.<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"index.html#msg-box6-8\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MAIS</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#header1-q\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MAIS</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -246,7 +250,7 @@
           },
           "title3": "Produção&nbsp;",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Cuidamos de toda a producao <br>do produto, para você se<br>concentrar apenas na criação.",
+          "caption3": "Cuidamos de toda a produção&nbsp;<br>do produto, para você se<br>concentrar apenas na criação.",
           "button3": "<a data-app-btn=\"true\" href=\"index.html#features1-b\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MAIS</a>",
           "media4": {
             "iconFont": {
@@ -713,7 +717,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Croqui-297383470666998/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/croquiapp/?hl=pt-br\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     }
