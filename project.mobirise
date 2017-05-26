@@ -113,9 +113,9 @@
               "src": "@PROJECT_PATH@/assets/images/croquih-490x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://www.facebook.com/Croqui-297383470666998/",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
