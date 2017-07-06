@@ -23,7 +23,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 27,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/croqui-128x128-1.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -103,7 +105,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -112,9 +114,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/croquih-490x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "CROQUI",
               "link": "https://www.facebook.com/Croqui-297383470666998/",
-              "title": "",
+              "title": "CROQUI",
               "linkInNewWindow": true
             },
             "iconFont": {
@@ -513,7 +515,7 @@
             "columns": 4,
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false
           },
